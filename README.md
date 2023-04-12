@@ -10,7 +10,7 @@ Pour utiliser ce script, vous devez avoir Python 3 installé sur votre ordinateu
 # Installation
 Clonez ce dépôt git sur votre ordinateur.
 Ouvrez une invite de commande dans le dossier où se trouve le script.
-Tapez la commande python optis.py pour lancer le script.
+Tapez la commande python main.py pour lancer le script.
 Options
 Le script propose les options suivantes :
 
